@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xani4ka</h1>
 <h3 align="center">A beginner developer from Ukraine</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
